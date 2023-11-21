@@ -32,4 +32,5 @@ mvn clean install
 java -jar vdp-client-app-0.0.1-SNAPSHOT.jar 
 ```
 * Test the micro service application from local: http://localhost:8080/vdp-connection/helloworld
+* 
 
